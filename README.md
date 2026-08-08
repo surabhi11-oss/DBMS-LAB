@@ -1,2 +1,8 @@
-# DBMS-LAB
-This will contain all DBMS Lab assignments.
+This repository contains the experiments and assignments completed as part of the Database Management Systems (DBMS) Laboratory.
+
+Name:	Surabhi Chopadekar
+Roll No: 09
+Class: D6EC
+Subject	Database Management Systems
+Academic Year	2026-27
+
